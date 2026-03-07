@@ -2,3 +2,4 @@ This is test file
 
 
 New line
+New line
